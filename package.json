@@ -1,6 +1,11 @@
 {
   "name": "hyper-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "description" : "A packaged for babel to load hyper file",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexanderChen1989/hyper-loader.git"
+  }
 }
